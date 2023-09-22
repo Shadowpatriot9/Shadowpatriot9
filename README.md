@@ -1,4 +1,5 @@
-**Me**
+# Me
+
 I've been sitting here for about an hour about what to write on this page and some ideas come and go for what to write (as it's essentially an autobiography computer-science-wise), but I'm going to just start typing and see where it takes me.
 
 So I'm Grayden. I live out Colorful Colorado and I have been around a computer since I was 13 years old with my ever-so-fast Toshiba C50-A-156 that I had for one year before upgrading to my beloved HP EliteBook 8560w Workstation that I held onto for nearly a decade until swapping it out last year with my current laptop a 14" M1 MacBook Pro. 
