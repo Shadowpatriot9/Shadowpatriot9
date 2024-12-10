@@ -2,6 +2,7 @@
 
 ## Intro
 idk what to but here yet lol
+Dev: C++, Python. Ops: Azure
 
 ## Speciality
 🧠 Engineering Field 🧠 : Back End, DevOps, Scripting/Automation
