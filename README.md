@@ -9,4 +9,4 @@ Dev: C++, Python. Ops: Azure
 <br>
 🗣️ Languages 🗣️ : C++, Python, PowerShell, Bash
 <br>
-✏️ IDEs ✏️: Xcode, PyCharm, VS Code
+✏️ IDEs ✏️ : Xcode, PyCharm, VS Code
