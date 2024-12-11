@@ -1,5 +1,3 @@
-**just a start ftm.**
-
 ## Intro
 idk what to but here yet lol
 Dev: C++, Python. Ops: Azure
