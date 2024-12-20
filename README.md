@@ -6,7 +6,7 @@
 <br>
 
 ## Speciality
-🧠 Interests 🧠 : Back End, DevOps, Scripting/Automation, Embedded Systems and IoT, Cybersecurity
+🧠 Interests 🧠 : Back End, DevOps, Scripting/Automation, Embedded Systems, Cybersecurity
 <br>
 🗣️ Languages 🗣️ : C++, Python, PowerShell, Bash
 <br>
