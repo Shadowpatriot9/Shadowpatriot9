@@ -1,6 +1,6 @@
 ## Sup
-**This is my <sub>GitHub profile</sub>.....** <br>
-_<sup>I put stuff on here</sup> and poke around at others' stuff....._ <br>
+### **This is my <sub>GitHub profile</sub>.....** <br>
+### _<sup>I put stuff on here</sup> and poke around at others' stuff....._ <br>
 > that's about it lol. 😃
 
 <br>
