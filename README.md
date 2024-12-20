@@ -1,10 +1,10 @@
-## Intro
-> idk what to but here yet lol
-> still dont know lol.
-Dev: C++, Python. Ops: Azure
+## Sup
+This is my GitHub profile..... <br>
+I put stuff on here and poke around at others' stuff..... <br>
+that's about it lol.
 
 ## Speciality
-🧠 Fields of Interests 🧠 : Back End, DevOps, Scripting/Automation, Embedded Systems and IoT, Cybersecurity
+🧠 Interests 🧠 : Back End, DevOps, Scripting/Automation, Embedded Systems and IoT, Cybersecurity
 <br>
 🗣️ Languages 🗣️ : C++, Python, PowerShell, Bash
 <br>
