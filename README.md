@@ -1,12 +1,12 @@
 ## Sup
-### **This is my <sub>GitHub profile</sub>.....** <br>
-### _<sup>I put stuff on here</sup> and poke around at others' stuff....._ <br>
+**This is my** <sub>GitHub profile</sub> ..... <br>
+<sup>_I put stuff on here_</sup> and poke around at others' stuff..... <br>
 > that's about it lol. 😃
 
 <br>
 
 ## Speciality
-🧠 Interests 🧠 : Back End, DevOps, Scripting/Automation, Embedded Systems, Cybersecurity
+🧠 Interests 🧠 : Back-End, Scripting/Automation, Embedded Systems, DevOps, Cybersecurity
 <br>
 🗣️ Languages 🗣️ : C++, Python, PowerShell, Bash
 <br>
