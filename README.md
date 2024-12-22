@@ -3,8 +3,6 @@
 <sup>_I put stuff on here_</sup> and poke around at others' stuff..... <br>
 > that's about it lol. 😃
 
-<br>
-
 ## Speciality
 🧠 Interests 🧠 : Back-End, Scripting/Automation, Embedded Systems, DevOps, Cybersecurity
 <br>
