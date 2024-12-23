@@ -4,8 +4,8 @@
 > that's about it lol. 😃
 
 ## Speciality
-🧠 Interests 🧠 : Back-End, Scripting/Automation, Embedded Systems, DevOps, Cybersecurity
+🧠 Interests 🧠 : Back-End, Front-End, Scripting/Automation, Embedded Systems, Cybersecurity
 <br>
-🗣️ Languages 🗣️ : C++, Python, PowerShell, Bash
+🗣️ Languages 🗣️ : C++, Python, HTML/CSS, PowerShell, Bash
 <br>
 ✏️ IDEs ✏️ : Xcode, PyCharm, VS Code
