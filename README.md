@@ -1,7 +1,7 @@
 ## Welcome
 I'm Grayden and I'm here to develop my skills further in my pursuit of becoming a software engineer. 
 
-I currently see myself as an entry level developer with varied interests, but most involve that which is discussed below.
+I currently see myself as an entry level developer with varied interests, but most involve to which is discussed below.
 My current focus is primary in exploring more of C++ and Python as a programming language by completing intermediate projects that is suitable for these languages which you can 
 see in my pinned repos below. 
 
