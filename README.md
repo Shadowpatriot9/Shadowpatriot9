@@ -10,6 +10,6 @@ I don't have a lot of repos published yet, but feel free to poke around and let 
 ## Speciality
 🧠 Interests 🧠 : Back-End, Full-Stack, Scripting/Automation, Embedded Systems, Cybersecurity
 <br>
-🗣️ Languages 🗣️ : C++, Python, HTML/CSS, PowerShell, Bash
+🗣️ Languages 🗣️ : C++, Python, HTML/CSS, PowerShell
 <br>
 ✏️ IDEs ✏️ : Xcode, PyCharm, VS Code
