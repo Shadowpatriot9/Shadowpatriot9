@@ -8,7 +8,7 @@ see in my pinned repos below.
 I don't have a lot of repos published yet, but feel free to poke around and let me know if you have any questions about my work. 😃
 
 ## Speciality
-🧠 Interests 🧠 : Back-End, Full-Stack, Scripting/Automation, Embedded Systems, Cybersecurity
+🧠 Interests 🧠 : Back-End, Full-Stack, Embedded Systems, Scripting/Automation, Cybersecurity
 <br>
 🗣️ Languages 🗣️ : C++, Python, HTML/CSS, PowerShell
 <br>
