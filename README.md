@@ -11,5 +11,3 @@ I don't have a lot of repos published yet, but feel free to poke around and let 
 🧠 Interests 🧠 : Full-Stack, Scripting/Automation, Architecture, Infrastructure
 <br>
 🗣️ Languages 🗣️ : C++, Python, HTML/CSS, JavaScript, PowerShell, Bash
-<br>
-✏️ IDEs ✏️ : Xcode, PyCharm, VS Code
