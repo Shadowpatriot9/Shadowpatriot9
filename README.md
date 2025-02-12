@@ -10,4 +10,7 @@ I don't have a lot of repos published yet, but feel free to poke around and let 
 ## Speciality
 🧠 Interests 🧠 : Full-Stack, Scripting/Automation, Architecture, Infrastructure
 <br>
-🗣️ Languages 🗣️ :  C++, C#, React, HTML/CSS, JS, Python, PowerShell
+🗣️ Languages 🗣️ : <br>
+App: C++ | C# | Swift/Objective-C
+Web: React | HTML/CSS | JS
+Scripting: PowerShell | Bash | Python
