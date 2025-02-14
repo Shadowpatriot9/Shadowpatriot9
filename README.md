@@ -8,11 +8,11 @@ see in my pinned repos below.
 I don't have a lot of repos published yet, but feel free to poke around and let me know if you have any questions about my work. 😃
 
 ## Speciality
-🧠 Interests 🧠 : 
+🧠 Interests 🧠 :  <br>
+Full-Stack | Scripting/Automation | Architecture | Infrastructure
 <br>
-Full-Stack, Scripting/Automation, Architecture, Infrastructure
 <br>
 🗣️ Languages 🗣️ : <br>
-App: C++ | C# | Swift/Objective-C <br>
-Web: React | HTML/CSS | JS <br>
-Scripting: PowerShell | Bash | Python <br>
+App:    C++ | C# | Swift/Objective-C <br>
+Web:   React | HTML/CSS | JS <br>
+Scripting: PowerShell | Bash | Python <br>
