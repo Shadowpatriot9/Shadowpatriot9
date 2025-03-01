@@ -9,7 +9,7 @@ I don't have a lot of repos published yet, but feel free to poke around and let 
 
 ## Speciality
 🧠 Interests 🧠 :  <br>
-Applications | Architecture | Scripting/Automation | Infrastructure
+Applications | Scripting/Automation | Architecture
 <br>
 <br>
 🗣️ Languages 🗣️ : <br>
