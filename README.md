@@ -13,6 +13,7 @@ Applications | Scripting/Automation | Architecture
 <br>
 <br>
 🗣️ Languages 🗣️ : <br>
-App:    C++ | C# | Swift/Objective-C <br>
-Web:   React | HTML/CSS | JS <br>
-Scripting: PowerShell | Bash | Python <br>
+Applications:    C++ | C# | Swift/Objective-C <br>
+Scripting:       Python | PowerShell | Bash <br>
+Web Development: React | HTML/CSS | JS <br>
+
