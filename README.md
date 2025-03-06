@@ -9,11 +9,11 @@ I don't have a lot of repos published yet, but feel free to poke around and let 
 
 ## Speciality
 🧠 Interests 🧠 :  <br>
-Applications | Scripting/Automation | Architecture
+Applications | Scripting/Automation | Artificial Intelligence | Architecture
 <br>
 <br>
 🗣️ Languages 🗣️ : <br>
-Applications:    C++ | C# | Swift/Objective-C <br>
-Scripting:       Python | PowerShell | Bash <br>
+Applications: C++ | Swift/Objective-C <br>
+Scripting: Python | PowerShell | Bash <br>
 Web Development: React | HTML/CSS | JS <br>
 
