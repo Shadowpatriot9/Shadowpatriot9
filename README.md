@@ -9,7 +9,8 @@ I don't have a lot of repos published yet, but feel free to poke around and let 
 
 ## Speciality
 🧠 Interests 🧠 :  <br>
-Applications | Scripting/Automation | Artificial Intelligence | Architecture
+Primary: Applications | Scripting/Automation <br>
+Secondary: Artificial Intelligence | Architecture
 <br>
 <br>
 🗣️ Languages 🗣️ : <br>
