@@ -10,7 +10,7 @@ I don't have a lot of repos published yet, but feel free to poke around and let 
 ## Speciality
 🧠 Interests 🧠 :  <br>
 Primary: Applications | Scripting/Automation <br>
-Secondary: Artificial Intelligence | Architecture
+Secondary: Artificial Intelligence | Data Science | Architecture
 <br>
 <br>
 🗣️ Languages 🗣️ : <br>
