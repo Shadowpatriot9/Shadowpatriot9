@@ -1,7 +1,7 @@
 ## Welcome
 I'm Grayden and I'm here to develop my skills further in my pursuit of becoming a software engineer. 
 
-I currently see myself as a novice developer with varied interests, but am mostly involved of what is discussed below.
+I currently see myself as a novice front-end and script developer with varied interests, but am mostly involved of what is discussed below.
 My current focus is primarly in exploring more of C++ as a programming language by completing intermediate projects which you can 
 see in my pinned repos below. 
 
