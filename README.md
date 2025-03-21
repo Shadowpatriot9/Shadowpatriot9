@@ -14,7 +14,7 @@ Secondary: Artificial Intelligence | Data Science | Architecture
 <br>
 <br>
 🗣️ Languages 🗣️ : <br>
-Applications: C++ | Swift/Objective-C <br>
+Applications: C++ | Swift <br>
 Scripting: Python | PowerShell | Bash <br>
 Web Development: JS | TS | HTML/CSS <br>
 
