@@ -1,7 +1,7 @@
 ## Welcome
 I'm Grayden and I'm here to develop my skills further in my pursuit of becoming a software engineer. 
 
-I currently see myself as a novice front-end and script developer with varied interests, but am mostly involved of what is discussed below.
+I currently see myself as a novice front-end and script developer with varied interests, but am mostly involved of what is mentioned below.
 My current focus is primarly in exploring more of C++ as a programming language by completing intermediate projects which you can 
 see in my pinned repos below. 
 
@@ -14,5 +14,6 @@ Secondary: Artificial Intelligence | System Architecture
 <br>
 <br>
 🗣️ Languages 🗣️ : <br>
-Primary: Applications - C++ ; Scripting - Python | PowerShell/Bash ; Web Development - JS <br>
-Secondary: Applications - Swift | Rust ; Web Development - TS | Deno
+Primary: Applications - C++ ; Scripting - Python | PowerShell <br>
+Secondary: Applications - Rust ; Scripting - Go <br>
+Personal: Applications - Swift ; Web Development - TS (JS)
