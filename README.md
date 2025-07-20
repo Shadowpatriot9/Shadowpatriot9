@@ -15,5 +15,4 @@ Secondary: Artificial Intelligence | System Architecture
 <br>
 🗣️ Languages 🗣️ : <br>
 Primary: Applications - C++ ; Scripting - Python | PowerShell <br>
-Secondary: Applications - Rust ; Scripting - Go <br>
-Personal: Applications - Swift ; Web Development - TS (JS)
+Personal: Applications - Swift ; Web Development - JS
