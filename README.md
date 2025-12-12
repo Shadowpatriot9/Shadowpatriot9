@@ -13,5 +13,5 @@ Secondary: Artificial Intelligence | System Architecture
 <br>
 <br>
 🗣️ Languages 🗣️ : <br>
-C++, Python, PowerShell, JS/TS <br>
+PowerShell, JS, C++, Python<br>
 
