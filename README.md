@@ -8,9 +8,7 @@ I don't have a lot of repos published yet, but feel free to poke around and let 
 
 ## Speciality
 🧠 Interests 🧠 :  <br>
-Primary: Applications | Scripting/Automation <br>
-Secondary: Artificial Intelligence | System Architecture
-<br>
+Automation, Web Development, System Architecture
 <br>
 🗣️ Languages 🗣️ : <br>
 PowerShell, JS, C++, Python<br>
