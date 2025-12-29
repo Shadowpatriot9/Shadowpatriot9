@@ -7,9 +7,7 @@ My current focus is primarly in exploring more of the programing languages I am 
 I don't have a lot of repos published yet, but feel free to poke around and let me know if you have any questions about my work. 😃
 
 ## Speciality
-🧠 Interests 🧠 :  <br>
-Automation, Web Development, System Architecture
+🧠 Interests 🧠 : Automation, Web Development, System Architecture
 <br>
-🗣️ Languages 🗣️ : <br>
-PowerShell, JS, C++, Python<br>
+🗣️ Languages 🗣️ : PowerShell, JS, C++, Python
 
